@@ -1,0 +1,26 @@
+
+body {
+    background-color: #000; /* Fundo preto */
+    color: #00ff00; /* Texto verde neon */
+    font-family: 'Courier New', Courier, monospace; /* Fonte monoespaçada */
+}
+    h1 {
+    font-size: 3rem;
+    text-shadow: 0 0 10px #00ff00;
+}
+    #joke-container {
+    background-color: #0a0a0a; /* Fundo quase preto */
+    border-color: #00ff00; /* Borda verde neon */
+    color: #00ff00;
+    box-shadow: 0 0 20px #00ff00; /* Sombra neon */
+}
+    #new-joke-btn {
+    background-color: #000; /* Fundo preto */
+    color: #00ff00;
+    border: 2px solid #00ff00;
+    box-shadow: 0 0 10px #00ff00; /* Sombra neon */
+}
+    #new-joke-btn:hover {
+    background-color: #00ff00;
+    color: #000;
+}
